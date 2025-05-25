@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BarcodeScanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/scanner_primary</item>
+        <item name="colorPrimaryVariant">@color/scanner_primary_variant</item>
+        <item name="colorSecondary">@color/scanner_secondary</item>
+        <item name="colorSecondaryVariant">@color/scanner_secondary_variant</item>
+        <item name="android:colorBackground">@color/scanner_background</item>
+        <item name="colorSurface">@color/scanner_surface</item>
+        <item name="colorError">@color/scanner_error</item>
+    </style>
+</resources>

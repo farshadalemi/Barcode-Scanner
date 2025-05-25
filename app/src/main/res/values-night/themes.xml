@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode. -->
+    <style name="Theme.BarcodeScanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/scanner_primary</item>
+        <item name="colorPrimaryVariant">@color/scanner_primary_variant</item>
+        <item name="colorSecondary">@color/scanner_secondary</item>
+        <item name="colorSecondaryVariant">@color/scanner_secondary_variant</item>
+        <item name="android:colorBackground">#FF121212</item>
+        <item name="colorSurface">#FF1E1E1E</item>
+        <item name="colorError">@color/scanner_error</item>
+    </style>
+</resources>

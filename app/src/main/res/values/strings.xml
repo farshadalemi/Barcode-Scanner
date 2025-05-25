@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="product_list">Product List</string>
+    <string name="add_product">Add Product</string>
+    <string name="export_excel">Export to Excel</string>
+    <string name="camera_permission_required">Camera permission is required to scan barcodes</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="point_camera_at_barcode">Point camera at barcode</string>
+    <string name="barcode_detected_automatically">Barcode will be detected automatically</string>
+    <string name="no_products_yet">No products yet</string>
+    <string name="start_scanning_to_add_products">Start scanning to add products</string>
+    <string name="search_products">Search products...</string>
+    <string name="product_name">Product Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="category">Category</string>
+    <string name="notes">Notes</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="barcode">Barcode</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="export_successful">Excel file exported successfully</string>
+    <string name="export_failed">Failed to export Excel file</string>
+    <string name="product_added">Product added successfully</string>
+    <string name="product_updated">Product updated successfully</string>
+    <string name="product_deleted">Product deleted successfully</string>
+    <string name="welcome_title">Welcome to Barcode Scanner</string>
+    <string name="welcome_subtitle">Scan barcodes, manage products, and export to Excel</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="view_products">View Products</string>
+    <string name="features_list">• Scan any barcode or QR code\n• Add product details\n• Export to Excel\n• Works offline</string>
+</resources>
